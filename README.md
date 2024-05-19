@@ -1,5 +1,4 @@
 # Operaciones-matematicas
-Pruebas curso de platzi
 export function solution(num) {
   let result = []
   for (let i = 1; i <= num; i++) {
